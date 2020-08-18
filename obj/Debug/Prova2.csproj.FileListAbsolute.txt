@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Prova2\Prova2\bin\Debug\Prova2.exe.config
+C:\Users\ACER\source\repos\Prova2\Prova2\bin\Debug\Prova2.exe
+C:\Users\ACER\source\repos\Prova2\Prova2\bin\Debug\Prova2.pdb
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.Form1.resources
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.FormFacil.resources
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.Properties.Resources.resources
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.exe
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.pdb
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.FormMedio.resources
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.FormDificil.resources
+C:\Users\ACER\source\repos\Prova2\Prova2\obj\Debug\Prova2.GameOver.resources

@@ -1,0 +1,14 @@
+C:\Users\matth\source\repos\SelecaoImagens\bin\Debug\SelecaoImagens.exe.config
+C:\Users\matth\source\repos\SelecaoImagens\bin\Debug\SelecaoImagens.exe
+C:\Users\matth\source\repos\SelecaoImagens\bin\Debug\SelecaoImagens.pdb
+C:\Users\matth\source\repos\SelecaoImagens\obj\Debug\SelecaoImagens.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\SelecaoImagens\obj\Debug\SelecaoImagens.Form1.resources
+C:\Users\matth\source\repos\SelecaoImagens\obj\Debug\SelecaoImagens.Form2.resources
+C:\Users\matth\source\repos\SelecaoImagens\obj\Debug\SelecaoImagens.Properties.Resources.resources
+C:\Users\matth\source\repos\SelecaoImagens\obj\Debug\SelecaoImagens.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\SelecaoImagens\obj\Debug\SelecaoImagens.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\SelecaoImagens\obj\Debug\SelecaoImagens.exe
+C:\Users\matth\source\repos\SelecaoImagens\obj\Debug\SelecaoImagens.pdb
+C:\Users\ACER\Desktop\SelecaoImagens\SelecaoImagens\obj\Debug\SelecaoImagens.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\SelecaoImagens\SelecaoImagens\obj\Debug\SelecaoImagens.exe
+C:\Users\ACER\Desktop\SelecaoImagens\SelecaoImagens\obj\Debug\SelecaoImagens.pdb
